@@ -1,8 +1,0 @@
-C:\Users\Zac\Documents\Visual Studio 2012\Projects\Pinger\Pinger\bin\Debug\Pinger.exe
-C:\Users\Zac\Documents\Visual Studio 2012\Projects\Pinger\Pinger\bin\Debug\Pinger.pdb
-C:\Users\Zac\Documents\Visual Studio 2012\Projects\Pinger\Pinger\obj\Debug\Pinger.csprojResolveAssemblyReference.cache
-C:\Users\Zac\Documents\Visual Studio 2012\Projects\Pinger\Pinger\obj\Debug\Pinger.Form1.resources
-C:\Users\Zac\Documents\Visual Studio 2012\Projects\Pinger\Pinger\obj\Debug\Pinger.Properties.Resources.resources
-C:\Users\Zac\Documents\Visual Studio 2012\Projects\Pinger\Pinger\obj\Debug\Pinger.csproj.GenerateResource.Cache
-C:\Users\Zac\Documents\Visual Studio 2012\Projects\Pinger\Pinger\obj\Debug\Pinger.exe
-C:\Users\Zac\Documents\Visual Studio 2012\Projects\Pinger\Pinger\obj\Debug\Pinger.pdb
